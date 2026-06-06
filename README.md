@@ -1,5 +1,7 @@
 This is the website where users can register/log in and upload their review posts about restaurants.
+
 <img width="941" height="463" alt="front" src="https://github.com/user-attachments/assets/c9ae671d-8a69-46e1-9dda-f510ef8e186a" />
+The user can log in as either a guest or an admin.
 <img width="1910" height="916" alt="log in register" src="https://github.com/user-attachments/assets/393a8cf0-8eaa-4f8c-803c-5e1cb14c831b" />
 <img width="1897" height="932" alt="image (4)" src="https://github.com/user-attachments/assets/8c8a3dca-266c-4b75-9c99-80cacca6cebb" />
 <img width="1908" height="930" alt="image (5)" src="https://github.com/user-attachments/assets/796ed657-a0d1-4a55-bff8-279c80bd5236" />
